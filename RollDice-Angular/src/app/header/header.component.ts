@@ -8,7 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class HeaderComponent implements OnInit {
 
   constructor() { }
-
+  sname = "James Bhagoutie";
+  sid = 991554085;
   ngOnInit(): void {
   }
 
